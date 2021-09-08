@@ -28,6 +28,31 @@ let render_projects = (slug) => {
             description: "A to do list app built with React",
             categories: ['webdev']
         },
+
+        {
+            image: 'assets/images/to-do.jpg',
+            link: 'https://github.com/minna-amin/to-do',
+            title: 'My Cafe',
+            technologies: ['UI/UX'],
+            description: "",
+            categories: ['UI/UX']
+        },
+        {
+            image: 'assets/images/to-do.jpg',
+            link: 'https://github.com/minna-amin/to-do',
+            title: 'stdy',
+            technologies: ['UI/UX'],
+            description: "",
+            categories: ['UI/UX']
+        },
+        {
+            image: 'assets/images/to-do.jpg',
+            link: 'https://github.com/minna-amin/to-do',
+            title: 'habit tracker',
+            technologies: ['UI/UX'],
+            description: "",
+            categories: ['UI/UX']
+        },
         
     ]
 
