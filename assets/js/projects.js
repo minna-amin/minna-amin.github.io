@@ -12,9 +12,9 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://github.com/minna-amin/tic-tac-toe',
             title: 'tic-tac-toe',
-            demo: 'https://mporter.co',
+           // demo: 'https://mporter.co',
             technologies: ['React'],
             description: "Simple game of tic tac toe built using react",
             categories: ['webdev']
