@@ -11,12 +11,21 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/tictac.png',
             link: 'https://github.com/minna-amin/tic-tac-toe',
             title: 'tic-tac-toe',
            // demo: 'https://mporter.co',
             technologies: ['React'],
             description: "Simple game of tic tac toe built using react",
+            categories: ['webdev']
+        },
+
+        {
+            image: 'assets/images/to-do.jpg',
+            link: 'https://github.com/minna-amin/to-do',
+            title: 'To-Do',
+            technologies: ['React'],
+            description: "A to do list app built with React",
             categories: ['webdev']
         },
         
