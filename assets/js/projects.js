@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             title: 'My Cafe',
             technologies: ['UI/UX'],
             description: "",
-            categories: ['UI/UX']
+            categories: ['ui']
         },
         {
             image: 'assets/images/to-do.jpg',
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'stdy',
             technologies: ['UI/UX'],
             description: "",
-            categories: ['UI/UX']
+            categories: ['ui']
         },
         {
             image: 'assets/images/to-do.jpg',
@@ -51,7 +51,7 @@ let render_projects = (slug) => {
             title: 'habit tracker',
             technologies: ['UI/UX'],
             description: "",
-            categories: ['UI/UX']
+            categories: ['ui']
         },
         
     ]
