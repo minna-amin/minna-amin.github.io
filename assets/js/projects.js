@@ -46,7 +46,7 @@ let render_projects = (slug) => {
             categories: ['ui']
         },
         {
-            image: 'assets/images/to-do.jpg',
+            image: 'assets/images/habits.png',
             link: 'https://github.com/minna-amin/to-do',
             title: 'habit tracker',
             technologies: ['UI/UX'],
