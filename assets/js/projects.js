@@ -34,7 +34,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/minna-amin/to-do',
             title: 'My Cafe',
             technologies: ['UI/UX'],
-            description: "",
+            description: "a user  can view the  menu to their favourite cafe and order ahead",
             categories: ['ui']
         },
         {
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/minna-amin/to-do',
             title: 'stdy',
             technologies: ['UI/UX'],
-            description: "",
+            description: "a to do list",
             categories: ['ui']
         },
         {
@@ -50,7 +50,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/minna-amin/to-do',
             title: 'habit tracker',
             technologies: ['UI/UX'],
-            description: "",
+            description: "Log in your progress on your daily habits to stay consistent ",
             categories: ['ui']
         },
         
