@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
 
         {
-            image: 'assets/images/to-do.jpg',
+            image: 'assets/images/mycafe.jpg',
             link: 'https://github.com/minna-amin/to-do',
             title: 'My Cafe',
             technologies: ['UI/UX'],
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['ui']
         },
         {
-            image: 'assets/images/to-do.jpg',
+            image: 'assets/images/stdy.png',
             link: 'https://github.com/minna-amin/to-do',
             title: 'stdy',
             technologies: ['UI/UX'],
