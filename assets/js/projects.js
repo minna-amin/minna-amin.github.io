@@ -31,7 +31,7 @@ let render_projects = (slug) => {
 
         {
             image: 'assets/images/mycafe.jpg',
-            link: './assets/ui/mycafe.html',
+            link: 'file:///Users/minna/Desktop/minna-amin.github.io/assets/ui/mycafe.html',
             title: 'My Cafe',
             technologies: ['UI/UX'],
             description: "a user  can view the  menu to their favourite cafe and order ahead",
