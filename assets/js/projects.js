@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/stdy.png',
-            link: 'https://github.com/minna-amin/to-do',
+            link: 'assets/ui/mycafe.html',
             title: 'stdy',
             technologies: ['UI/UX'],
             description: "a to do list",
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/habits.png',
-            link: 'https://github.com/minna-amin/to-do',
+            link: 'assets/ui/mycafe.html',
             title: 'habit tracker',
             technologies: ['UI/UX'],
             description: "Log in your progress on your daily habits to stay consistent ",
