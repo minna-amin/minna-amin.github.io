@@ -55,7 +55,7 @@ function blog_posts() {
 
     // for the more posts link
     let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" ;">
 
         <div class="blog-link">
 
