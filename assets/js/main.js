@@ -59,7 +59,7 @@ function blog_posts() {
 
         <div class="blog-link">
 
-            <h3><a href="https://www.nagekar.com">Visit the blog for more posts</a></h3>            
+            <h3><a href="">Coming soon!</a></h3>            
 
         </div>
 
